@@ -1,0 +1,16 @@
+{
+    "clubs": [
+        {
+            "id": 1,
+            "club name": "Oasis",
+            "meeting place": "West Village H",
+            "meeting time": "12 pm to 2 pm"
+        },
+        {
+            "id": 2,
+            "club name": "Northeastern Symphony Orchestra",
+            "meeting place": "Fenway Center",
+            "meeting time": "6:15 - 8:45"
+        }
+    ]
+}
